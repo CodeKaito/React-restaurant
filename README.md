@@ -1,6 +1,7 @@
 20 lines (15 sloc)  1.18 KB
 
 # Restaurant Landing Page
+## Click to the site below for the final project
 ### [Live Site](https://codekaito-restaurant.netlify.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)

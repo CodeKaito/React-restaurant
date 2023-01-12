@@ -19,10 +19,8 @@ import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
-import quoterev from '../assets/quoterev.png';
 import gericht from '../assets/gericht.png';
 
-// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   bg,
   chef,
@@ -45,6 +43,5 @@ export default {
   award05,
   sign,
   quote,
-  quoterev,
   gericht,
 };
